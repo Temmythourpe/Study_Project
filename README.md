@@ -1,4 +1,4 @@
-# Study_project
+# Study_Project
 Reanalysis of the 100-Year Flood in Wairau River Catchment
 One of New Zealand's most important rivers, the Wairau, is a key source of irrigation and water supplies for the Marlborough residential region.
 Several river protection systems have been in place in the Wairau region for the past 130 years to divert floodwaters and protect the region from flooding.
